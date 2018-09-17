@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
     public void btAnim(View view){
 
 
+
+
+
 //        animLine.setPivotX(1.0f);
 //        animLine.animate().scaleX(0).setDuration(500).setInterpolator(new AccelerateDecelerateInterpolator());
 //        if(animLine.getAlpha() ==1){
